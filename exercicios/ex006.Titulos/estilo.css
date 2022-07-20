@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(255, 253, 253, 0.871);  
+    font:normal 14pt arial 
+}
+h1#h1{
+    font: normal 30pt arial;
+    color: white;
+    text-align:center ;
+}
+
+h1#h2{
+     color: #6d6d6df0;
+}
+
+img#img2{
+    text-align:left;
+}
+section{
+    background-color: rgb(3, 0, 151);
+    border-radius: 1px;
+    padding:1px;
+    margin: auto;
+    box-shadow: 1px 1px ;
+ 
+}
